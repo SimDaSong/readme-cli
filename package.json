@@ -1,0 +1,16 @@
+{
+  "name": "@simdasong/readme-cli",
+  "version": "1.0.0",
+  "description": "template for readme.md of cli style",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SimDaSong/readme-cli.git"
+  },
+  "keywords": ["readme", "cli", "template"],
+  "author": "SimDaSong",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SimDaSong/readme-cli/issues"
+  },
+  "homepage": "https://github.com/SimDaSong/readme-cli#readme"
+}
